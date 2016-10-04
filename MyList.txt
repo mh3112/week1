@@ -1,0 +1,4 @@
+003|Nguyen B|Ha Noi|Nu|12/10/1995|9|7|8|24
+005|Nguyen C|Ha Noi|Nam|12/1/1996|10|8|8|26
+011|Nguyen D|Ha Noi|Nam|12/1/1996|5|9|8|22
+001|Nguyen A|Ha Noi|Nam|12/1/1996|5|7|8|20
